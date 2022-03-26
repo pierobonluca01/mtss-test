@@ -3,3 +3,4 @@
 
 # Inventario
 * Processori
+* Schede Madri
