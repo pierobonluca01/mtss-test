@@ -9,5 +9,6 @@
 
 ## Periferiche
 * Tastiere
+* Mouse
 
 Elettronica Padovana
