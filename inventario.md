@@ -2,9 +2,11 @@
 2009111
 
 # Inventario
+
+## Componenti
 * Processori
 * Schede Madri
 
-## Componenti
+## Periferiche
 
 Elettronica Padovana
